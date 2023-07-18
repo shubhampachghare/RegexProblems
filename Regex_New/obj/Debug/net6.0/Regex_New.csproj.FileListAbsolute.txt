@@ -1,0 +1,15 @@
+C:\RFP 289\Regex_New\Regex_New\bin\Debug\net6.0\Regex_New.exe
+C:\RFP 289\Regex_New\Regex_New\bin\Debug\net6.0\Regex_New.deps.json
+C:\RFP 289\Regex_New\Regex_New\bin\Debug\net6.0\Regex_New.runtimeconfig.json
+C:\RFP 289\Regex_New\Regex_New\bin\Debug\net6.0\Regex_New.dll
+C:\RFP 289\Regex_New\Regex_New\bin\Debug\net6.0\Regex_New.pdb
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.csproj.AssemblyReference.cache
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.AssemblyInfoInputs.cache
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.AssemblyInfo.cs
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.csproj.CoreCompileInputs.cache
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.dll
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\refint\Regex_New.dll
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.pdb
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\Regex_New.genruntimeconfig.cache
+C:\RFP 289\Regex_New\Regex_New\obj\Debug\net6.0\ref\Regex_New.dll
